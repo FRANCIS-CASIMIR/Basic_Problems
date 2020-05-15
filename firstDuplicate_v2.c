@@ -1,7 +1,7 @@
 /*
 #
 #The Second version of firstDuplicate. Time Complexity is O(n)..
-#
+#read firstDuplicate.c for problem statement
 */
 
 
