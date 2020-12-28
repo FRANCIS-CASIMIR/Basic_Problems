@@ -19,6 +19,9 @@ public class ReArrangeArray {
 	}
 	
 	void rearrange(){
+		/*
+		* It uses an auxilary array to rearrange
+		*/
 		
 		int max = len-1,min = 0,i=0;
 		
